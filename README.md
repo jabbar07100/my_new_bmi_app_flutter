@@ -1,5 +1,7 @@
 # BMI Calculator 💪
 
+Abdul Jabbar
+
 SP17-BCS-083  B
 
 Assignment MAD After 1st sessional.
